@@ -2,6 +2,8 @@
 
 Base is https://github.com/mjkillough/feather-sonos
 
+[!https://raw.githubusercontent.com/masuidrive/sonos-controller-m5stickc/master/demo1.jpg]
+
 # Install
 
 ```
